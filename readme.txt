@@ -1,4 +1,4 @@
-=== Jack ===
+=== Airline ===
 Contributors: Saif
 Requires at least: WordPress 4.1
 Tested up to: WordPress 4.9-trunk
@@ -30,7 +30,7 @@ Our 2015 default theme is clean, blog-focused, and designed for clarity. airline
 == Copyright ==
 
 Witoni, Copyright 2014-2016 WordPress.org & Automattic.com
-jack is distributed under the terms of the GNU GPL
+Airline is distributed under the terms of the GNU GPL
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
@@ -42,7 +42,7 @@ but WITHOUT ANY WARRANTY; without even the implied warranty of
 MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
 GNU General Public License for more details.
 
-Jack Theme bundles the following third-party resources:
+Airline Theme bundles the following third-party resources:
 
 HTML5 Shiv v3.7.0, Copyright 2014 Alexander Farkas
 Licenses: MIT/GPL2
