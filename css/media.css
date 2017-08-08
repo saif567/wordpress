@@ -1,0 +1,171 @@
+@media only screen and (max-width : 360px) {
+	#top-header .top-haeder-menu .contact ul li {
+    padding: 0px 4px;
+    border-right:none;
+}
+#top-header .top-haeder-menu .contact ul li a {
+    font-size: 12px;
+}
+#top-header .top-haeder-menu .top-menu ul li {
+    padding: 0px 4px;
+}
+#logo .content .search-text input.search-info {
+    width: 54% !important;
+}
+.blog-logo {
+    margin-bottom: 15px;
+    text-align: center;
+}
+#banner {
+    margin: 0px;
+    padding: 0px;
+    background: url(../images/main-banner.jpg) no-repeat 50% 50%;
+    background-size: cover;
+    background-position: top center;
+    height: auto;
+    width: 100%;
+}
+#banner .feature .Feature-menu ul .service-button {
+    font-size: 14px;
+}
+#banner .title-text .banner-heading {
+    margin-top: 20px !important;
+}
+#featured-content .featured-tab {
+    margin-top: 10px;
+}
+#featured-content .featured-tab .section-heading.shape-2 p {
+    margin-left:0%;
+    margin-right:0%;
+}
+.compact-text {
+    margin-top: 30px;
+    text-align: center;
+}
+.compact-text ul {
+    padding: 0;
+}
+button.learn {
+    margin-left: 0px;
+}
+.social-icon ul {
+    padding: 0;
+}
+.copyright h6 a {
+    font-size: 12px;
+}
+}
+@media only screen and (max-width : 412px) {
+	#top-header .top-haeder-menu .top-menu ul {
+    float: none;
+}
+	#top-header .top-haeder-menu .contact ul li {
+    padding: 0px 4px;
+    border-right:none;
+}
+#top-header .top-haeder-menu .contact ul li a {
+    font-size: 12px;
+}
+#top-header .top-haeder-menu .top-menu ul li {
+    padding: 0px 4px;
+}
+#logo .content .search-text input.search-info {
+    width: 67%;
+}
+.blog-logo {
+    margin-bottom: 15px;
+    text-align: center;
+}
+.feature {
+    text-align: center;
+    margin-left: 17%;
+}
+
+#banner {
+    margin: 0px;
+    padding: 0px;
+    background: url(../images/main-banner.jpg) no-repeat 50% 50%;
+    background-size: cover;
+    background-position: top center;
+    height: auto;
+    width: 100%;
+}
+#banner .title-text .banner-heading {
+    margin-top: 20px !important;
+}
+#featured-content .featured-tab {
+    margin-top: 10px;
+}
+#featured-content .featured-tab .section-heading.shape-2 p {
+    margin-left:0%;
+    margin-right:0%;
+}
+.compact-text {
+    margin-top: 30px;
+    text-align: center;
+}
+.compact-text ul {
+    padding: 0;
+}
+button.learn {
+    margin-left: 0px;
+}
+.social-icon ul {
+    padding: 0;
+}
+.copyright h6 a {
+    font-size: 12px;
+}
+}
+@media only screen and (max-width : 603px) {
+	.contact {
+    text-align: center;
+}
+.top-menu {
+    text-align: center;
+}
+#top-header .top-haeder-menu .top-menu ul {
+    list-style: none;
+    padding: 0px;
+    float: none;
+}
+.blog-logo {
+    margin-bottom: 15px;
+    text-align: center;
+}
+#banner .feature .Feature-menu {
+    margin-top: 20px;	
+}
+#banner .title-text .banner-heading {
+    margin-top: 0px !important;
+}
+#featured-content .featured-tab {
+    margin-top: 0px;
+}
+.com-boby {
+  text-align: center;
+}
+.social-icon ul {
+    padding: 0;
+}
+@media only screen and (max-width : 768px) { 
+}
+}
+@media only screen and (max-width : 966px) {
+	.nav > li > a {
+    padding: 10px 13px !important;
+    font-size: 13px !important;
+	line-height: 30px !important;
+}
+#banner .title-text .banner-heading {
+    margin-top: 270px;
+}
+}
+@media only screen and (max-width : 1024px) {
+		.nav > li > a {
+    padding: 10px 25px !important;
+    font-size: 13px !important;
+	line-height: 30px !important;
+}
+	
+}
