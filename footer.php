@@ -19,7 +19,7 @@
                                                                 		<h3>Contact Us</h3>
                                                                        <ul>
                                                                        		<li>123 Maine Street, Uni 21 </li></br>
-                                                                            <li>New York City</li></br>
+                                                                            <li>New Delhi</li></br>
                                                           <li><i class="fa fa-envelope" aria-hidden="true"></i><?php echo get_option('fcontent_t'); ?></li></br>
                                                           <li><i class="fa fa-phone" aria-hidden="true"></i><?php echo get_option('fcontent_a'); ?></li></br>
 
@@ -43,7 +43,7 @@
                                             </div>
                                            
                                          <div class="copyright">
-                                         <h6><a href="#">© 2017 witoni sotfware &  services  All rights reserved</a></h6>
+                                         <h6><a href="#">© 2017 Saif  All rights reserved</a></h6>
                                          </div>                                  
                             </footer>
 
